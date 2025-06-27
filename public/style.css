@@ -19,4 +19,8 @@ canvas {
   .container {
     flex-direction: row;
   }
+
+  canvas {
+    background: black;
+  }
 }
